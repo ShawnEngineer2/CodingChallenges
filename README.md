@@ -1,2 +1,2 @@
 # CodingChallenges
-Coding Challenges for us in Technical Assessments
+Coding Challenges for use in Technical Assessments
